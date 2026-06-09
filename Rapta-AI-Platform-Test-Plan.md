@@ -22,7 +22,7 @@ happen, and provides supervisors with analytics to
 improve production workflows.
 
 The platform runs on edge hardware with no internet 
-connection — making thorough pre deployment testing 
+connection, making thorough pre deployment testing 
 critical since there is no remote fix once deployed 
 at a customer site.
 
@@ -52,7 +52,7 @@ at a customer site.
 
 ## 5. Test Approach
 
-Rapta's platform uses AI computer vision — a non 
+Rapta's platform uses AI computer vision a non 
 deterministic system that makes judgment calls rather 
 than returning fixed outputs. Testing approach focuses 
 on evaluating consistent and reliable behavior across 
